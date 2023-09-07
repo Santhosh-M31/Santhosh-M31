@@ -10,9 +10,12 @@ Beyond the confines of my professional pursuits, I assume the role of an enthusi
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santhoshm31/)
-[![Blog](https://img.shields.io/badge/Blog-Visit-orange?style=for-the-badge&logo=hashnode)](https://santhoshm.hashnode.dev/)
-[![Let's Talk Spatial](https://img.shields.io/badge/Let's%20Talk%20Spatial-Visit-green?style=for-the-badge)](https://letstalkspatial.in/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/santhoshm31/)
+[![Twitter](https://img.shields.io/twitter/follow/santhosh_m31?style=social&logo=x)](https://twitter.com/santhosh_m31)
+[![Blog](https://img.shields.io/badge/Blog-Visit-orange?style=social&logo=hashnode)](https://santhoshm.hashnode.dev/)
+[![Let's Talk Spatial](https://img.shields.io/badge/Let's%20Talk%20Spatial-Visit-green?style=social&logo=https://letstalkspatial.in/wp-content/uploads/2022/10/lets-get-spatial_logo_high_res.jpg)](https://letstalkspatial.in/)
+
 
 <!--
 **Santhosh-M31/Santhosh-M31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
